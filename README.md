@@ -6,3 +6,5 @@ The main audience for our project is anyone, who wants to see or share his music
 SanJunipero - not just a web-site, where you can listen to music, it is a completely new, never discovered exploration to the world of music. 
 
 Stay with SanJunipero. Stay with music.
+
+Presentation https://github.com/silaan/-project-from-arman
